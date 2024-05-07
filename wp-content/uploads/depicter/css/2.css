@@ -1,0 +1,242 @@
+
+.depicter-revert .depicter-2-element-12{
+	background-color:#000000;
+	border-radius:5px 5px 5px 5px;
+}
+.depicter-revert .depicter-2-element-12:not(.depicter-hover-off){
+	transition:all ease 0.5s;
+}
+.depicter-revert .depicter-2-element-12:not(.depicter-hover-off):hover {
+	background-color:#0A5AF4;
+}
+.depicter-2-element-12 .depicter-arrow-icon{
+	fill:#FFFFFF;
+	transition:all ease 0.5s;
+}
+.depicter-2-element-12:not(.depicter-hover-off):hover .depicter-arrow-icon{
+	fill:#FFFFFF;
+}
+.depicter-revert .depicter-2-element-13{
+	background-color:#000000;
+	border-radius:5px 5px 5px 5px;
+}
+.depicter-revert .depicter-2-element-13:not(.depicter-hover-off){
+	transition:all ease 0.5s;
+}
+.depicter-revert .depicter-2-element-13:not(.depicter-hover-off):hover {
+	background-color:#0A5AF4;
+}
+.depicter-2-element-13 .depicter-arrow-icon{
+	fill:#FFFFFF;
+	transition:all ease 0.5s;
+}
+.depicter-2-element-13:not(.depicter-hover-off):hover .depicter-arrow-icon{
+	fill:#FFFFFF;
+}
+.depicter-revert .depicter-2-element-11{
+	background-color:#C89970;
+	border-radius:100px;
+}
+.depicter-revert .depicter-2-element-9{
+	font-size:64px;
+	color:#000000;
+	font-family:"Philosopher";
+	font-weight:700;
+	line-height:120%;
+	background-color:transparent;
+}
+.depicter-revert .depicter-2-element-14{
+	background-image:linear-gradient(90deg, #000000 0%, #000000 100%);
+}
+.depicter-revert .depicter-2-element-22{
+	font-size:26px;
+	text-align:center;
+	color:#000000;
+	font-family:"Montserrat";
+	font-weight:500;
+	background-color:#FFF8EF;
+	border-radius:50px;
+}
+.depicter-revert .depicter-2-element-22:not(.depicter-hover-off){
+	transition:all linear 0.3s;
+}
+.depicter-revert .depicter-2-element-22:not(.depicter-hover-off):hover {
+	opacity:1;
+	color:#FFFFFF;
+	background-color:rgba(34, 34, 34, 0.9);
+}
+.depicter-revert .depicter-2-element-19{
+	border-radius:25px;
+}
+.depicter-revert .depicter-2-section-1 .depicter-section-background{
+	background-color:#FFF8EF;
+}
+.depicter-revert .depicter-2-element-40{
+	font-size:26px;
+	text-align:center;
+	color:#000000;
+	font-family:"Montserrat";
+	font-weight:500;
+	background-color:#FFF8EF;
+	border-radius:50px;
+}
+.depicter-revert .depicter-2-element-40:not(.depicter-hover-off){
+	transition:all linear 0.3s;
+}
+.depicter-revert .depicter-2-element-40:not(.depicter-hover-off):hover {
+	opacity:1;
+	color:#FFFFFF;
+	background-color:rgba(34, 34, 34, 0.9);
+}
+.depicter-revert .depicter-2-element-39{
+	border-radius:25px;
+}
+.depicter-revert .depicter-2-section-38 .depicter-section-background{
+	background-color:#FFF8EF;
+}
+.depicter-revert .depicter-2-element-43{
+	font-size:26px;
+	text-align:center;
+	color:#000000;
+	font-family:"Montserrat";
+	font-weight:500;
+	background-color:#FFF8EF;
+	border-radius:50px;
+}
+.depicter-revert .depicter-2-element-43:not(.depicter-hover-off){
+	transition:all linear 0.3s;
+}
+.depicter-revert .depicter-2-element-43:not(.depicter-hover-off):hover {
+	opacity:1;
+	color:#FFFFFF;
+	background-color:rgba(34, 34, 34, 0.9);
+}
+.depicter-revert .depicter-2-element-42{
+	border-radius:25px;
+}
+.depicter-revert .depicter-2-section-41 .depicter-section-background{
+	background-color:#FFF8EF;
+}
+
+/***** Tablet *****/
+@media screen and (max-width: 1024px){
+
+.depicter-revert .depicter-2-element-13{
+	background-color:#000000;
+}
+.depicter-2-element-13 .depicter-arrow-icon{
+	fill:#FFFFFF;
+}
+.depicter-revert .depicter-2-element-11{
+	background-color:#C89970;
+}
+.depicter-revert .depicter-2-element-9{
+	font-size:47px;
+	color:#000000;
+	font-family:"Philosopher";
+	font-weight:700;
+	line-height:120%;
+	background-color:transparent;
+}
+.depicter-revert .depicter-2-element-14{
+	background-image:linear-gradient(90deg, transparent 0%, #000000 100%);
+}
+.depicter-revert .depicter-2-element-22{
+	font-size:26px;
+	text-align:center;
+	color:#000000;
+	font-family:"Montserrat";
+	font-weight:500;
+	background-color:#FFF8EF;
+}
+.depicter-revert .depicter-2-section-1 .depicter-section-background{
+	background-color:#FFF8EF;
+}
+.depicter-revert .depicter-2-element-40{
+	font-size:26px;
+	text-align:center;
+	color:#000000;
+	font-family:"Montserrat";
+	font-weight:500;
+	background-color:#FFF8EF;
+}
+.depicter-revert .depicter-2-section-38 .depicter-section-background{
+	background-color:#FFF8EF;
+}
+.depicter-revert .depicter-2-element-43{
+	font-size:26px;
+	text-align:center;
+	color:#000000;
+	font-family:"Montserrat";
+	font-weight:500;
+	background-color:#FFF8EF;
+}
+.depicter-revert .depicter-2-section-41 .depicter-section-background{
+	background-color:#FFF8EF;
+}
+
+}
+/***** Mobile *****/
+@media screen and (max-width: 767px){
+
+.depicter-revert .depicter-2-element-12{
+	background-color:#000000;
+}
+.depicter-2-element-12 .depicter-arrow-icon{
+	fill:#FFFFFF;
+}
+.depicter-revert .depicter-2-element-13{
+	background-color:#000000;
+}
+.depicter-2-element-13 .depicter-arrow-icon{
+	fill:#FFFFFF;
+}
+.depicter-revert .depicter-2-element-11{
+	background-color:#C89970;
+}
+.depicter-revert .depicter-2-element-9{
+	font-size:32px;
+	color:#000000;
+	font-family:"Philosopher";
+	font-weight:700;
+	line-height:120%;
+	background-color:transparent;
+}
+.depicter-revert .depicter-2-element-14{
+	background-image:linear-gradient(90deg, #000000 0%, #000000 100%);
+}
+.depicter-revert .depicter-2-element-22{
+	font-size:18px;
+	text-align:center;
+	color:#000000;
+	font-family:"Montserrat";
+	font-weight:500;
+	background-color:#FFF8EF;
+}
+.depicter-revert .depicter-2-section-1 .depicter-section-background{
+	background-color:#FFF8EF;
+}
+.depicter-revert .depicter-2-element-40{
+	font-size:18px;
+	text-align:center;
+	color:#000000;
+	font-family:"Montserrat";
+	font-weight:500;
+	background-color:#FFF8EF;
+}
+.depicter-revert .depicter-2-section-38 .depicter-section-background{
+	background-color:#FFF8EF;
+}
+.depicter-revert .depicter-2-element-43{
+	font-size:18px;
+	text-align:center;
+	color:#000000;
+	font-family:"Montserrat";
+	font-weight:500;
+	background-color:#FFF8EF;
+}
+.depicter-revert .depicter-2-section-41 .depicter-section-background{
+	background-color:#FFF8EF;
+}
+
+}

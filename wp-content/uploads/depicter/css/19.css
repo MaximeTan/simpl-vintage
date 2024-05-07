@@ -1,0 +1,843 @@
+
+.depicter-revert .depicter-19-element-20{
+	opacity:0.5;
+	background-color:transparent;
+}
+.depicter-revert .depicter-19-element-20:not(.depicter-hover-off){
+	transition:all ease 2s;
+}
+.depicter-revert .depicter-19-element-20:not(.depicter-hover-off):hover {
+	opacity:0.9;
+	background-color:transparent;
+}
+.depicter-19-element-20 .depicter-arrow-icon{
+	fill:#000000;
+	transition:all ease 2s;
+}
+.depicter-19-element-20:not(.depicter-hover-off):hover .depicter-arrow-icon{
+	fill:#0078CF;
+}
+.depicter-revert .depicter-19-element-22{
+	background-color:transparent;
+}
+.depicter-revert .depicter-19-element-22:not(.depicter-hover-off){
+	transition:all linear 2s;
+}
+.depicter-revert .depicter-19-element-22:not(.depicter-hover-off):hover {
+	transform:scale(0.9);
+	background-color:transparent;
+}
+.depicter-19-element-22 .depicter-arrow-icon{
+	fill:#000000;
+	transition:all linear 2s;
+}
+.depicter-19-element-22:not(.depicter-hover-off):hover .depicter-arrow-icon{
+	fill:#0078CF;
+}
+.depicter-revert .depicter-19-element-11{
+	transform:scaleX(-1);
+	background-color:#000000;
+}
+.depicter-revert .depicter-19-element-7{
+	background-color:#000000;
+}
+.depicter-revert .depicter-19-element-10{
+	transform:scaleX(-1);
+	background-color:transparent;
+	border-width:2px;
+	border-style:solid;
+	border-color:#000000;
+	border-radius:50%;
+}
+.depicter-revert .depicter-19-element-6{
+	background-color:transparent;
+	border-width:2px;
+	border-style:solid;
+	border-color:#000000;
+	border-radius:50%;
+}
+.depicter-revert .depicter-19-element-2{
+	border-radius:500px 500px 0px 0px;
+}
+.depicter-revert .depicter-19-element-15{
+	padding:0px 0px 0px 0px;
+	font-size:13px;
+	text-align:center;
+	color:#FFFFFF;
+	font-family:"Inter";
+	font-weight:600;
+	text-transform:capitalize;
+	background-color:#000000;
+	border-radius:8px;
+}
+.depicter-revert .depicter-19-element-15:not(.depicter-hover-off):hover {
+	color:#FFFFFF;
+	transform:scale(1.06);
+	background-color:#222222;
+}
+.depicter-revert .depicter-19-element-14{
+	font-size:15px;
+	color:#4B423E;
+	font-family:"Inter";
+	font-weight:400;
+	line-height:120%;
+	background-color:transparent;
+}
+.depicter-revert .depicter-19-element-12{
+	font-size:80px;
+	color:#C39800;
+	font-family:"Source Serif Pro";
+	font-weight:400;
+	line-height:110%;
+	text-transform:capitalize;
+	background-color:transparent;
+}
+.depicter-revert .depicter-19-element-23{
+	font-size:22px;
+	color:#8979B7;
+	font-family:"Source Serif Pro";
+	font-weight:400;
+	line-height:120%;
+	text-transform:capitalize;
+	letter-spacing:-2px;
+	transform:rotate(-90deg);
+	background-color:transparent;
+}
+.depicter-revert .depicter-19-element-19{
+	font-size:22px;
+	color:#0078CF;
+	font-family:"PT Serif";
+	font-weight:400;
+	line-height:120%;
+	text-transform:capitalize;
+	letter-spacing:-2px;
+	background-color:transparent;
+}
+.depicter-revert .depicter-19-element-18{
+	background-color:#000000;
+}
+.depicter-revert .depicter-19-element-17{
+	font-size:22px;
+	color:#B6B6B6;
+	font-family:"PT Serif";
+	font-weight:400;
+	line-height:120%;
+	text-transform:capitalize;
+	letter-spacing:-2px;
+	background-color:transparent;
+}
+.depicter-revert .depicter-19-element-3{
+	background-color:transparent;
+	border-width:2px;
+	border-style:solid;
+	border-color:#000000;
+	border-radius:300px 300px 0px 0px;
+}
+.depicter-revert .depicter-19-section-1 .depicter-section-background{
+	background-color:#F6FAFF;
+}
+.depicter-revert .depicter-19-element-34{
+	transform:scaleX(-1);
+	background-color:#000000;
+}
+.depicter-revert .depicter-19-element-30{
+	background-color:#000000;
+}
+.depicter-revert .depicter-19-element-33{
+	transform:scaleX(-1);
+	background-color:transparent;
+	border-width:2px;
+	border-style:solid;
+	border-color:#000;
+	border-radius:50%;
+}
+.depicter-revert .depicter-19-element-29{
+	background-color:transparent;
+	border-width:2px;
+	border-style:solid;
+	border-color:#000000;
+	border-radius:50%;
+}
+.depicter-revert .depicter-19-element-26{
+	border-radius:500px 500px 0px 0px;
+}
+.depicter-revert .depicter-19-element-38{
+	padding:0px 0px 0px 0px;
+	font-size:13px;
+	text-align:center;
+	color:#FFFFFF;
+	font-family:"Inter";
+	font-weight:600;
+	background-color:#000000;
+	border-radius:8px;
+}
+.depicter-revert .depicter-19-element-38:not(.depicter-hover-off):hover {
+	color:#FFFFFF;
+	transform:scale(1.06);
+	background-color:#222222;
+}
+.depicter-revert .depicter-19-element-37{
+	font-size:15px;
+	color:#4B423E;
+	font-family:"Inter";
+	font-weight:400;
+	line-height:120%;
+	background-color:transparent;
+}
+.depicter-revert .depicter-19-element-35{
+	font-size:80px;
+	color:#C39800;
+	font-family:"Source Serif Pro";
+	font-weight:400;
+	line-height:110%;
+	text-transform:capitalize;
+	background-color:transparent;
+}
+.depicter-revert .depicter-19-element-43{
+	font-size:22px;
+	color:#D56F7A;
+	font-family:"Source Serif Pro";
+	font-weight:400;
+	line-height:120%;
+	text-transform:capitalize;
+	letter-spacing:-2px;
+	transform:rotate(-90deg);
+	background-color:transparent;
+}
+.depicter-revert .depicter-19-element-42{
+	font-size:22px;
+	color:#EA8F95;
+	font-family:"Source Serif Pro";
+	font-weight:400;
+	line-height:120%;
+	text-transform:capitalize;
+	letter-spacing:-2px;
+	background-color:transparent;
+}
+.depicter-revert .depicter-19-element-41{
+	background-color:#000000;
+}
+.depicter-revert .depicter-19-element-40{
+	font-size:22px;
+	color:#B6B6B6;
+	font-family:"Source Serif Pro";
+	font-weight:400;
+	line-height:120%;
+	text-transform:capitalize;
+	letter-spacing:-2px;
+	background-color:transparent;
+}
+.depicter-revert .depicter-19-element-27{
+	background-color:transparent;
+	border-width:2px;
+	border-style:solid;
+	border-color:#000000;
+	border-radius:300px 300px 0px 0px;
+}
+.depicter-revert .depicter-19-section-25 .depicter-section-background{
+	background-color:#FFF6F8;
+}
+.depicter-revert .depicter-19-element-56{
+	transform:scaleX(-1);
+	background-color:#000000;
+}
+.depicter-revert .depicter-19-element-52{
+	background-color:#000000;
+}
+.depicter-revert .depicter-19-element-55{
+	transform:scaleX(-1);
+	background-color:transparent;
+	border-width:2px;
+	border-style:solid;
+	border-color:#000;
+	border-radius:50%;
+}
+.depicter-revert .depicter-19-element-51{
+	background-color:transparent;
+	border-width:2px;
+	border-style:solid;
+	border-color:#000;
+	border-radius:50%;
+}
+.depicter-revert .depicter-19-element-48{
+	border-radius:500px 500px 0px 0px;
+}
+.depicter-revert .depicter-19-element-60{
+	padding:0px 0px 0px 0px;
+	font-size:13px;
+	text-align:center;
+	color:#FFFFFF;
+	font-family:"Inter";
+	font-weight:600;
+	background-color:#000000;
+	border-radius:8px;
+}
+.depicter-revert .depicter-19-element-60:not(.depicter-hover-off):hover {
+	color:#FFFFFF;
+	transform:scale(1.06);
+	background-color:#222222;
+}
+.depicter-revert .depicter-19-element-59{
+	font-size:15px;
+	color:#4B423E;
+	font-family:"Inter";
+	font-weight:400;
+	line-height:120%;
+	background-color:transparent;
+}
+.depicter-revert .depicter-19-element-57{
+	font-size:80px;
+	color:#C39800;
+	font-family:"Source Serif Pro";
+	font-weight:400;
+	line-height:110%;
+	text-transform:capitalize;
+	background-color:transparent;
+}
+.depicter-revert .depicter-19-element-65{
+	font-size:22px;
+	color:#F6BF5E;
+	font-family:"Source Serif Pro";
+	font-weight:400;
+	line-height:120%;
+	text-transform:capitalize;
+	letter-spacing:-2px;
+	transform:rotate(-90deg);
+	background-color:transparent;
+}
+.depicter-revert .depicter-19-element-64{
+	font-size:22px;
+	color:#018865;
+	font-family:"Source Serif Pro";
+	font-weight:400;
+	line-height:120%;
+	text-transform:capitalize;
+	letter-spacing:-2px;
+	background-color:transparent;
+}
+.depicter-revert .depicter-19-element-63{
+	background-color:#000000;
+}
+.depicter-revert .depicter-19-element-62{
+	font-size:22px;
+	color:#B6B6B6;
+	font-family:"Source Serif Pro";
+	font-weight:400;
+	line-height:120%;
+	text-transform:capitalize;
+	letter-spacing:-2px;
+	background-color:transparent;
+}
+.depicter-revert .depicter-19-element-49{
+	background-color:transparent;
+	border-width:2px;
+	border-style:solid;
+	border-color:#000;
+	border-radius:300px 300px 0px 0px;
+}
+.depicter-revert .depicter-19-section-47 .depicter-section-background{
+	background-color:#F6FFF7;
+}
+
+/***** Tablet *****/
+@media screen and (max-width: 1024px){
+
+.depicter-19-element-20 .depicter-arrow-icon{
+	fill:#000000;
+}
+.depicter-revert .depicter-19-element-22{
+	background-color:transparent;
+}
+.depicter-19-element-22 .depicter-arrow-icon{
+	fill:#000000;
+}
+.depicter-revert .depicter-19-element-11{
+	transform:scaleX(-1);
+	background-color:#000000;
+}
+.depicter-revert .depicter-19-element-7{
+	background-color:#000000;
+}
+.depicter-revert .depicter-19-element-10{
+	transform:scaleX(-1);
+	background-color:transparent;
+	border-width:2px;
+	border-color:#000000;
+}
+.depicter-revert .depicter-19-element-6{
+	background-color:transparent;
+	border-width:2px;
+	border-color:#000000;
+}
+.depicter-revert .depicter-19-element-15{
+	font-size:13px;
+	text-align:center;
+	color:#FFFFFF;
+	font-family:"Inter";
+	font-weight:600;
+	text-transform:capitalize;
+	background-color:#000000;
+}
+.depicter-revert .depicter-19-element-14{
+	font-size:15px;
+	color:#4B423E;
+	font-family:"Inter";
+	font-weight:400;
+	line-height:120%;
+	background-color:transparent;
+}
+.depicter-revert .depicter-19-element-12{
+	font-size:80px;
+	color:#C39800;
+	font-family:"Source Serif Pro";
+	font-weight:400;
+	line-height:110%;
+	text-transform:capitalize;
+	background-color:transparent;
+}
+.depicter-revert .depicter-19-element-23{
+	font-size:22px;
+	color:#8979B7;
+	font-family:"Source Serif Pro";
+	font-weight:400;
+	line-height:120%;
+	text-transform:capitalize;
+	letter-spacing:-2px;
+	transform:rotate(-90deg);
+	background-color:transparent;
+}
+.depicter-revert .depicter-19-element-19{
+	font-size:22px;
+	color:#0078CF;
+	font-family:"Source Serif Pro";
+	font-weight:400;
+	line-height:120%;
+	text-transform:capitalize;
+	letter-spacing:-2px;
+	background-color:transparent;
+}
+.depicter-revert .depicter-19-element-18{
+	background-color:#000000;
+}
+.depicter-revert .depicter-19-element-17{
+	font-size:22px;
+	color:#B6B6B6;
+	font-family:"Source Serif Pro";
+	font-weight:400;
+	line-height:120%;
+	text-transform:capitalize;
+	letter-spacing:-2px;
+	background-color:transparent;
+}
+.depicter-revert .depicter-19-element-3{
+	background-color:transparent;
+	border-width:2px;
+	border-color:#000000;
+}
+.depicter-revert .depicter-19-section-1 .depicter-section-background{
+	background-color:#F6FAFF;
+}
+.depicter-revert .depicter-19-element-34{
+	transform:scaleX(-1);
+}
+.depicter-revert .depicter-19-element-30{
+	background-color:#000000;
+}
+.depicter-revert .depicter-19-element-33{
+	transform:scaleX(-1);
+}
+.depicter-revert .depicter-19-element-29{
+	background-color:transparent;
+	border-width:2px;
+	border-color:#000000;
+}
+.depicter-revert .depicter-19-element-38{
+	font-size:13px;
+	text-align:center;
+	color:#FFFFFF;
+	font-family:"Inter";
+	font-weight:600;
+	background-color:#000000;
+}
+.depicter-revert .depicter-19-element-37{
+	font-size:15px;
+	color:#4B423E;
+	font-family:"Inter";
+	font-weight:400;
+	line-height:120%;
+	background-color:transparent;
+}
+.depicter-revert .depicter-19-element-35{
+	font-size:80px;
+	color:#C39800;
+	font-family:"Source Serif Pro";
+	font-weight:400;
+	line-height:110%;
+	text-transform:capitalize;
+	background-color:transparent;
+}
+.depicter-revert .depicter-19-element-43{
+	font-size:22px;
+	color:#D56F7A;
+	font-family:"Source Serif Pro";
+	font-weight:400;
+	line-height:120%;
+	text-transform:capitalize;
+	letter-spacing:-2px;
+	transform:rotate(-90deg);
+	background-color:transparent;
+}
+.depicter-revert .depicter-19-element-42{
+	font-size:22px;
+	color:#EA8F95;
+	font-family:"Source Serif Pro";
+	font-weight:400;
+	line-height:120%;
+	text-transform:capitalize;
+	letter-spacing:-2px;
+	background-color:transparent;
+}
+.depicter-revert .depicter-19-element-40{
+	font-size:22px;
+	color:#B6B6B6;
+	font-family:"Source Serif Pro";
+	font-weight:400;
+	line-height:120%;
+	text-transform:capitalize;
+	letter-spacing:-2px;
+	background-color:transparent;
+}
+.depicter-revert .depicter-19-element-27{
+	background-color:transparent;
+	border-width:2px;
+	border-color:#000000;
+}
+.depicter-revert .depicter-19-section-25 .depicter-section-background{
+	background-color:#FFF6F8;
+}
+.depicter-revert .depicter-19-element-56{
+	transform:scaleX(-1);
+}
+.depicter-revert .depicter-19-element-52{
+	background-color:#000000;
+}
+.depicter-revert .depicter-19-element-55{
+	transform:scaleX(-1);
+}
+.depicter-revert .depicter-19-element-51{
+	background-color:transparent;
+	border-width:2px;
+	border-color:#000000;
+}
+.depicter-revert .depicter-19-element-60{
+	font-size:13px;
+	text-align:center;
+	color:#FFFFFF;
+	font-family:"Inter";
+	font-weight:600;
+	background-color:#000000;
+}
+.depicter-revert .depicter-19-element-59{
+	font-size:15px;
+	color:#4B423E;
+	font-family:"Inter";
+	font-weight:400;
+	line-height:120%;
+	background-color:transparent;
+}
+.depicter-revert .depicter-19-element-57{
+	font-size:80px;
+	color:#C39800;
+	font-family:"Source Serif Pro";
+	font-weight:400;
+	line-height:110%;
+	text-transform:capitalize;
+	background-color:transparent;
+}
+.depicter-revert .depicter-19-element-65{
+	font-size:22px;
+	color:#F6BF5E;
+	font-family:"Source Serif Pro";
+	font-weight:400;
+	line-height:120%;
+	text-transform:capitalize;
+	letter-spacing:-2px;
+	transform:rotate(-90deg);
+	background-color:transparent;
+}
+.depicter-revert .depicter-19-element-64{
+	font-size:22px;
+	color:#018865;
+	font-family:"Source Serif Pro";
+	font-weight:400;
+	line-height:120%;
+	text-transform:capitalize;
+	letter-spacing:-2px;
+	background-color:transparent;
+}
+.depicter-revert .depicter-19-element-62{
+	font-size:22px;
+	color:#B6B6B6;
+	font-family:"Source Serif Pro";
+	font-weight:400;
+	line-height:120%;
+	text-transform:capitalize;
+	letter-spacing:-2px;
+	background-color:transparent;
+}
+.depicter-revert .depicter-19-element-49{
+	background-color:transparent;
+	border-width:2px;
+	border-color:#000000;
+}
+.depicter-revert .depicter-19-section-47 .depicter-section-background{
+	background-color:#F6FFF7;
+}
+
+}
+/***** Mobile *****/
+@media screen and (max-width: 767px){
+
+.depicter-revert .depicter-19-element-22{
+	background-color:transparent;
+}
+.depicter-19-element-22 .depicter-arrow-icon{
+	fill:#000000;
+}
+.depicter-revert .depicter-19-element-11{
+	transform:scaleX(-1);
+}
+.depicter-revert .depicter-19-element-7{
+	background-color:#000000;
+}
+.depicter-revert .depicter-19-element-10{
+	transform:scaleX(-1);
+	background-color:transparent;
+	border-width:1px;
+	border-color:#000000;
+}
+.depicter-revert .depicter-19-element-6{
+	border-width:1px;
+	border-color:#000000;
+}
+.depicter-revert .depicter-19-element-15{
+	font-size:13px;
+	text-align:center;
+	color:#FFFFFF;
+	font-family:"Inter";
+	font-weight:600;
+	text-transform:capitalize;
+	background-color:#000000;
+}
+.depicter-revert .depicter-19-element-14{
+	font-size:12px;
+	text-align:center;
+	color:#4B423E;
+	font-family:"Inter";
+	font-weight:400;
+	line-height:120%;
+	background-color:transparent;
+}
+.depicter-revert .depicter-19-element-12{
+	font-size:50px;
+	text-align:center;
+	color:#C39800;
+	font-family:"Source Serif Pro";
+	font-weight:400;
+	line-height:110%;
+	text-transform:capitalize;
+	background-color:transparent;
+}
+.depicter-revert .depicter-19-element-23{
+	font-size:18px;
+	color:#8979B7;
+	font-family:"Source Serif Pro";
+	font-weight:400;
+	line-height:120%;
+	text-transform:capitalize;
+	letter-spacing:-2px;
+	transform:rotate(-90deg);
+	background-color:transparent;
+}
+.depicter-revert .depicter-19-element-19{
+	font-size:16px;
+	color:#0078CF;
+	font-family:"Source Serif Pro";
+	font-weight:400;
+	line-height:120%;
+	text-transform:capitalize;
+	letter-spacing:-2px;
+	background-color:transparent;
+}
+.depicter-revert .depicter-19-element-18{
+	background-color:#000000;
+}
+.depicter-revert .depicter-19-element-17{
+	font-size:16px;
+	color:#B6B6B6;
+	font-family:"Source Serif Pro";
+	font-weight:400;
+	line-height:120%;
+	text-transform:capitalize;
+	letter-spacing:-2px;
+}
+.depicter-revert .depicter-19-element-3{
+	background-color:transparent;
+	border-width:1px;
+	border-color:#000000;
+}
+.depicter-revert .depicter-19-section-1 .depicter-section-background{
+	background-color:#F6FAFF;
+}
+.depicter-revert .depicter-19-element-34{
+	transform:scaleX(-1);
+}
+.depicter-revert .depicter-19-element-33{
+	transform:scaleX(-1);
+	border-width:1px;
+}
+.depicter-revert .depicter-19-element-29{
+	background-color:transparent;
+	border-width:1px;
+	border-color:#000000;
+}
+.depicter-revert .depicter-19-element-38{
+	font-size:13px;
+	text-align:center;
+	color:#FFFFFF;
+	font-family:"Inter";
+	font-weight:600;
+	background-color:#000000;
+}
+.depicter-revert .depicter-19-element-37{
+	font-size:12px;
+	text-align:center;
+	color:#4b423e;
+	font-family:"Inter";
+	font-weight:400;
+	line-height:120%;
+}
+.depicter-revert .depicter-19-element-35{
+	font-size:50px;
+	text-align:center;
+	color:#C39800;
+	font-family:"Source Serif Pro";
+	font-weight:400;
+	line-height:110%;
+	text-transform:capitalize;
+	background-color:transparent;
+}
+.depicter-revert .depicter-19-element-43{
+	font-size:18px;
+	color:#D56F7A;
+	font-family:"Source Serif Pro";
+	font-weight:400;
+	line-height:120%;
+	text-transform:capitalize;
+	letter-spacing:-2px;
+	transform:rotate(-90deg);
+	background-color:transparent;
+}
+.depicter-revert .depicter-19-element-42{
+	font-size:16px;
+	color:#EA8F95;
+	font-family:"Source Serif Pro";
+	font-weight:400;
+	line-height:120%;
+	text-transform:capitalize;
+	letter-spacing:-2px;
+}
+.depicter-revert .depicter-19-element-40{
+	font-size:16px;
+	color:#B6B6B6;
+	font-family:"Source Serif Pro";
+	font-weight:400;
+	line-height:120%;
+	text-transform:capitalize;
+	letter-spacing:-2px;
+	background-color:transparent;
+}
+.depicter-revert .depicter-19-element-27{
+	border-width:1px;
+	border-color:#000000;
+}
+.depicter-revert .depicter-19-section-25 .depicter-section-background{
+	background-color:#FFF6F8;
+}
+.depicter-revert .depicter-19-element-56{
+	transform:scaleX(-1);
+}
+.depicter-revert .depicter-19-element-55{
+	transform:scaleX(-1);
+	border-width:1px;
+}
+.depicter-revert .depicter-19-element-51{
+	border-width:1px;
+}
+.depicter-revert .depicter-19-element-60{
+	font-size:13px;
+	text-align:center;
+	color:#FFFFFF;
+	font-family:"Inter";
+	font-weight:600;
+	background-color:#000000;
+}
+.depicter-revert .depicter-19-element-59{
+	font-size:12px;
+	text-align:center;
+	color:#4b423e;
+	font-family:"Inter";
+	font-weight:400;
+	line-height:120%;
+}
+.depicter-revert .depicter-19-element-57{
+	font-size:50px;
+	text-align:center;
+	color:#C39800;
+	font-family:"Source Serif Pro";
+	font-weight:400;
+	line-height:110%;
+	text-transform:capitalize;
+	background-color:transparent;
+}
+.depicter-revert .depicter-19-element-65{
+	font-size:18px;
+	color:#F6BF5E;
+	font-family:"Source Serif Pro";
+	font-weight:400;
+	line-height:120%;
+	text-transform:capitalize;
+	letter-spacing:-2px;
+	transform:rotate(-90deg);
+	background-color:transparent;
+}
+.depicter-revert .depicter-19-element-64{
+	font-size:16px;
+	color:#018865;
+	font-family:"Source Serif Pro";
+	font-weight:400;
+	line-height:120%;
+	text-transform:capitalize;
+	letter-spacing:-2px;
+}
+.depicter-revert .depicter-19-element-63{
+	background-color:#000000;
+}
+.depicter-revert .depicter-19-element-62{
+	font-size:16px;
+	color:#B6B6B6;
+	font-family:"Source Serif Pro";
+	font-weight:400;
+	line-height:120%;
+	text-transform:capitalize;
+	letter-spacing:-2px;
+	background-color:transparent;
+}
+.depicter-revert .depicter-19-element-49{
+	border-width:1px;
+}
+.depicter-revert .depicter-19-section-47 .depicter-section-background{
+	background-color:#F6FFF7;
+}
+
+}
